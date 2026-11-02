@@ -1,0 +1,8 @@
+# Robots.txt for ARCHEMIST Architecture & Engineering Solutions
+# https://archemist.co.in
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://archemist.co.in/sitemap.xml
